@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "a2c9998b259cff3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "294bc2c4990a236c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "cefi-defi-2021.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2f9d5d2439445965",
+    "type": "split",
+    "children": [
+      {
+        "id": "a81b61827daddb6f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd7c417f4e2f02a7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0054a950dc837719",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2ca09c647d43aacc",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "62ba02718c55f402",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3300b55966ca655",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "161c308abb53619b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "cefi-defi-2021.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "55182d6a15f81838",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "cefi-defi-2021.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "25eee3d45bb4eb63",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "28758a7b82caece0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "cefi-defi-2021.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "dd7c417f4e2f02a7",
+  "lastOpenFiles": [
+    "sources/2106.08157.pdf",
+    "sources/applsci-12-03212.pdf"
+  ]
+}
